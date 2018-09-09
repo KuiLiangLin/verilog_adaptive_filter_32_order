@@ -2,6 +2,8 @@
 
 <em><a href="https://github.com/KuiLiangLin/verilog_adaptive_filter_32_order/">View adaptive filter 32 order on GitHub</a></em>. 
 
+<hr>
+
 <h4> This FPGA project is a 32 orders adaptive filter with s2p and p2s to communicate with Renesas RX210 MCU. </h4>
 
 <ol>
